@@ -1,0 +1,56 @@
+* {
+    margin:0;
+    padding:0;
+    background-color: grey;
+}
+
+.container {
+    background-color: rgb(8, 8, 8);
+    color:white;
+    height:400px;
+    width:400px;
+    margin-left: 500px;
+    margin-top:70px;
+    border:3px solid red;
+    border-radius: 20px;
+    border-style:double;
+}
+
+#heading {
+    font-size: 40x;
+    color:white;
+    margin: 50px 600px;
+}
+
+h1{
+    color:white;
+}
+
+
+.headings {
+    color:red;
+    background-color:  rgb(8, 8, 8);
+}
+.values {
+    margin-left: 40px;
+    background-color:  rgb(8, 8, 8) ;
+}
+.box {
+    margin:25px 25px;
+    /* margin-top: 10px; */
+    background-color:  rgb(8, 8, 8);
+    width:80%;
+    height:30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.screen {
+    width:150px;
+    margin-left: 200px;
+    background-color: aliceblue;
+    color:black;
+}
+
+
+
